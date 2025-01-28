@@ -1,4 +1,4 @@
-# Inverter_gate
+# Inverter
 This repository contains the design of an inverter gate created using Xschem and MAGIC. The project includes the schematic and IC layout, along with LVS verification results demonstrating the match between the schematic and layout designs.
 
 ## Xschem Schematic
@@ -15,8 +15,3 @@ This repository contains the design of an inverter gate created using Xschem and
 
 ## LVS
 ![lvs](https://github.com/user-attachments/assets/72179e47-1349-4553-80e9-a41acc606d6f)
-
-
-
-
-
